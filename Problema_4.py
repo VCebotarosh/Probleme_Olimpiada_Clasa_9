@@ -1,0 +1,1 @@
+print("lungimea gardului care imprejmuieste lotul in forma de dreptunghi este",2*((((48/4)**2)/9)+9),"metri")
